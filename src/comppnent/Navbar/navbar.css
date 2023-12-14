@@ -1,0 +1,29 @@
+.n{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #4f4f4f;
+    align-items: center;
+}
+
+.left{
+    padding-left: 80px;
+    cursor: pointer;
+    font-size: 36px;
+}
+
+
+.right{
+    padding-right: 50px;
+    display: flex;
+    gap: 20px;
+}
+
+.search{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 250px;
+}
